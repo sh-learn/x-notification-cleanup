@@ -16,4 +16,4 @@
 用法：
 “用 x-notification-cleanup 检查我的 X 通知，先筛选疑似色情或垃圾账号给我确认，确认后再举报并屏蔽。”
 
-Repo: <填 GitHub 链接>
+Repo: https://github.com/sh-learn/x-notification-cleanup
