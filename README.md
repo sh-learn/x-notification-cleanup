@@ -18,11 +18,9 @@
 在终端运行：
 
 ```bash
-cd /tmp
-git clone https://github.com/sh-learn/x-notification-cleanup.git
 mkdir -p ~/.codex/skills
 rm -rf ~/.codex/skills/x-notification-cleanup
-cp -R x-notification-cleanup ~/.codex/skills/
+git clone https://github.com/sh-learn/x-notification-cleanup.git ~/.codex/skills/x-notification-cleanup
 ```
 
 重启 Codex，或开启一个新会话，让 Codex 重新发现这个 skill。
